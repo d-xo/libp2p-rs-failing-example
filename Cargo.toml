@@ -1,0 +1,8 @@
+[package]
+name = "libp2p-failing"
+version = "0.1.0"
+authors = ["David Terry <me@xwvvvvwx.com>"]
+edition = "2018"
+
+[dependencies]
+libp2p-core = "0.22.1"
